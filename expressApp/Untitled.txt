@@ -1,0 +1,4 @@
+1. 2 start app, in terminal 
+node app.js
+2. restart app.js
+reopen page in browser, no need to type next
